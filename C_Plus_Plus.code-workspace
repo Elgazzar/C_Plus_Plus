@@ -4,13 +4,64 @@
 			"path": "OOP"
 		},
 		{
-			"path": "OOP_Classes"
-		},
-		{
 			"path": "Constractor_Initialization_List"
 		},
 		{
 			"path": "Delegating_Constractor"
+		},
+		{
+			"path": "App1"
+		},
+		{
+			"path": "App2"
+		},
+		{
+			"path": "Array_Vectors"
+		},
+		{
+			"path": "C_Plus_Plus_String"
+		},
+		{
+			"path": "Char_Strings"
+		},
+		{
+			"path": "Classes"
+		},
+		{
+			"path": "Classes_Objects"
+		},
+		{
+			"path": "Control_Program_Flow"
+		},
+		{
+			"path": "Dynamic_Memory_Allocation"
+		},
+		{
+			"path": "Functions"
+		},
+		{
+			"path": "Pass_By_Referance"
+		},
+		{
+			"path": "Pass_By_Referance_In_C"
+		},
+		{
+			"path": "Pointers"
+		},
+		{
+			"path": "Sum_oF_Digits"
+		},
+		{
+			"path": "Vector_Challenge"
+		},
+		{
+			"path": "Vectors"
+		},
+		{
+			"path": "Default_Constractor_Prameters"
+		},
+		{
+			"path": "Copy_Constractor"
 		}
 	],
 	"settings": {
@@ -64,7 +115,28 @@
 			"streambuf": "cpp",
 			"text_encoding": "cpp",
 			"typeinfo": "cpp",
-			"variant": "cpp"
+			"variant": "cpp",
+			"bitset": "cpp",
+			"chrono": "cpp",
+			"condition_variable": "cpp",
+			"cstring": "cpp",
+			"ratio": "cpp",
+			"mutex": "cpp",
+			"stop_token": "cpp",
+			"thread": "cpp",
+			"__bit_reference": "cpp",
+			"__hash_table": "cpp",
+			"__locale": "cpp",
+			"__node_handle": "cpp",
+			"__split_buffer": "cpp",
+			"__threading_support": "cpp",
+			"__verbose_abort": "cpp",
+			"execution": "cpp",
+			"ios": "cpp",
+			"locale": "cpp",
+			"print": "cpp",
+			"queue": "cpp",
+			"stack": "cpp"
 		}
 	}
 }
