@@ -62,6 +62,9 @@
 		},
 		{
 			"path": "Copy_Constractor"
+		},
+		{
+			"path": "Shallow_vs_Deep_Copy_Constractor"
 		}
 	],
 	"settings": {
